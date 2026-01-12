@@ -1,0 +1,8 @@
+{
+  "name": "Unity Flight Sim Architect",
+  "description": "An AI-powered assistant for generating Unity C# flight physics, AI, and logic, with a streamlined workflow for Android APK export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
